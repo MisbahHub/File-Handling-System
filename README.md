@@ -63,6 +63,6 @@ Input the name of the new directory to create.
 
 ## Requirements
 
-**-Operating System:** Windows
+**- Operating System:** Windows
 
-**-Compiler:** A C++ compiler that supports the <filesystem> or <direct.h> library (e.g., GCC or MSVC).
+**- Compiler:** A C++ compiler that supports the <filesystem> or <direct.h> library (e.g., GCC or MSVC).
