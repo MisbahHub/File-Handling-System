@@ -66,3 +66,8 @@ Input the name of the new directory to create.
 **- Operating System:** Windows
 
 **- Compiler:** A C++ compiler that supports the <filesystem> or <direct.h> library (e.g., GCC or MSVC).
+
+
+## Author
+
+This project is created by **Misbah**, a software engineering student exploring advanced file handling techniques in C++.
